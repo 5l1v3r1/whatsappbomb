@@ -1,7 +1,6 @@
-# whatsappbomb
-
-## COMMANDS FOR INSTALLING
-
+# Whatsappbomb
++ COMMANDS FOR INSTALLING
++
 git clone https://github.com/nandydark/whatsappbomb.git
 
 cd Whats-App-Bomber.py
