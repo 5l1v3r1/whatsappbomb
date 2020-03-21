@@ -1,4 +1,4 @@
-# Whatsappbomb
+# Whatsappbomber
 ## COMMANDS FOR INSTALLING
 
 + git clone https://github.com/nandydark/whatsappbomb.git
